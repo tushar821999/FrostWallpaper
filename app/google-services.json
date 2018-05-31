@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "873747702761",
+    "firebase_url": "https://frost-wallpaper.firebaseio.com",
+    "project_id": "frost-wallpaper",
+    "storage_bucket": "frost-wallpaper.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:873747702761:android:86c609be31b80c76",
+        "android_client_info": {
+          "package_name": "com.androidgits.frostwallpaper.activities"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "873747702761-fgsnh2okgcb6ehucbsov437og9tbk0qa.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "873747702761-fgsnh2okgcb6ehucbsov437og9tbk0qa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6M6vYIBqVz-oKGgCc3qaR9ihjHzTHq74"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
