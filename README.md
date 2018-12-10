@@ -1,5 +1,5 @@
 # FrostWallpaper
-Wallpaper App By Tushar Verma
+Wallpaper App By Tushar Verma.
 
 JSON Response API Links :-
 
