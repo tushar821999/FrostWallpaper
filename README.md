@@ -2,7 +2,7 @@
 Frost Wallpaper is an Android application with huge collection of super hero wallpapers.
 
 # App Preview
-![app_preview](https://github.com/tushar821999/FrostWallpaper/blob/master/Desn0EjX4AEMb1g.jpg?raw=true = 400x250)
+![app_preview](https://github.com/tushar821999/FrostWallpaper/blob/master/Desn0EjX4AEMb1g.jpg?raw=true)
 
 # Features
 1. Minimal Interface.
